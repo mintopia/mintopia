@@ -14,5 +14,5 @@ I'm a software developer and architect from the UK.
 
  - [@MintopiaUK](https://twitter.com/mintopiauk) on Twitter
  - [LinkedIn](https://www.linkedin.com/in/jessicasmithuk/)
- - [Mintopia](https://twitch.tv/mintopia on Twitch
+ - [Mintopia](https://twitch.tv/mintopia) on Twitch
  - Mintopia#0042 on Discord
