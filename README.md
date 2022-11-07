@@ -13,7 +13,7 @@ I'm a software developer and architect from the UK.
 ### Social Media
 
  - [@MintopiaUK](https://twitter.com/mintopiauk) on Twitter
- - <a rel="me" href="https://mastodon.me.uk/@mintopia">@mintopia@mastodon.me.uk</a> on the fediverse
+ - <a rel="me" href="https://mastodon.me.uk/@mintopia">Mastodon</a>
  - [LinkedIn](https://www.linkedin.com/in/jessicasmithuk/)
  - [Mintopia](https://twitch.tv/mintopia) on Twitch
  - Mintopia#0042 on Discord
